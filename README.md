@@ -4,7 +4,8 @@
 This is the Android Pre-work Project for the CodePath Introduction to Mobile Product Development. The main features and functionalities of the app are outlined below.
 
 ### App Walk-through
-<img src=https://github.com/wanjaeliud/hello_demo_app/blob/main/Eliud_Demo_App.gif width=200><br>
+![Eliud_Demo_App](https://user-images.githubusercontent.com/45029577/152252633-093cd19b-fab4-47da-85d8-3a9f5b2af422.gif)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
