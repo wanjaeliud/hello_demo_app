@@ -4,7 +4,12 @@
 This is the Android Pre-work Project for the CodePath Introduction to Mobile Product Development. The main features and functionalities of the app are outlined below.
 
 ### App Walk-through
+<<<<<<< HEAD
 <img src=http://g.recordit.co/P0vYhyTGx1.gif width=200><br>
+=======
+<img src="https://user-images.githubusercontent.com/45029577/152252633-093cd19b-fab4-47da-85d8-3a9f5b2af422.gif" width=200><br>
+
+>>>>>>> 14181b8f1ad99cafafb4f2b7abf5958639dd4815
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
